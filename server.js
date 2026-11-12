@@ -18,7 +18,7 @@ app.use(express.json());
 // This resets whenever the server restarts; it is not a database.
 let users = [
     { id: 1, name: 'Mahek', email: 'mahek@test.com', phone: '9999999991' },
-    { id: 2, name: 'Rahul', email: 'rahul@test.com', phone: '9999999992' },
+    { id: 2, name: 'Rahul', email: 'manali@test.com', phone: '9999999992' },
 ];
 let nextId = 3;
 
